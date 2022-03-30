@@ -1,3 +1,5 @@
+#Mert Oğuzhanasilturk
+
 def isPrimeNumber(number: int): # Is "Prime Number" return False - Is not "Prime Number" retrun True
     flag = False
     if number == 2:
